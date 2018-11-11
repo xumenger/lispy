@@ -1,5 +1,7 @@
 >[https://github.com/norvig/pytudes/](https://github.com/norvig/pytudes/)
 
+>[http://norvig.com/](http://norvig.com/)
+
 ```
 xumenger-mac:lispy xumenger$ python2 lis.py 
 lispy> (quote (testing 1 (2.0) -3.14e159))
